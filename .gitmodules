@@ -13,3 +13,7 @@
 	path = OpenSSL
 	url = https://github.com/lll123github/openssl
 	branch = openssl-3.0.17-dev
+[submodule "VLMEvalKit"]
+	path = VLMEvalKit
+	url = https://github.com/lll123github/VLMEvalKit
+	branch = main
