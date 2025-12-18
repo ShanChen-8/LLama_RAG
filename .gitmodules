@@ -5,3 +5,7 @@
 	path = Qwen3-VL-2B-finetune
 	url = https://github.com/lll123github/Qwen3-VL-2B-finetune.git
 	branch = pr-liumk
+[submodule "CMake"]
+	path = CMake
+	url = https://github.com/lll123github/CMake
+	branch = dev
