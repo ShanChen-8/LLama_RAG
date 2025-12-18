@@ -9,3 +9,7 @@
 	path = CMake
 	url = https://github.com/lll123github/CMake
 	branch = dev
+[submodule "OpenSSL"]
+	path = OpenSSL
+	url = https://github.com/lll123github/openssl
+	branch = openssl-3.0.17-dev
